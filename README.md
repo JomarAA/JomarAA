@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Technology used:
+
+Express  React  Redux  Flask  Docker  Postman  Css3  HTML 5  Python  JavaScript  PostgreSQL
+
+Contact me:
+https://www.linkedin.com/in/jomar-yanos-0a12b1233/
+Jomaryanos@gmail.com
+
+
+
 <!--
 **JomarAA/JomarAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
