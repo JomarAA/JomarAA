@@ -20,6 +20,7 @@
 ## Connect with me:
 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/jomar-yanos-0a12b1233/)
+[<img src="https://img.shields.io/badge/Portfolio-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=blue" />](https://www.linkedin.com/in/jomar-yanos-0a12b1233/")
 
 
 
